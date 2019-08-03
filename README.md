@@ -1,2 +1,2 @@
 # reminder-system
- A python program that plays text to speech at a certain time of the day.
+ A python program that runs a command or plays TTS at a certain time of day.
