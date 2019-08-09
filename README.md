@@ -9,7 +9,7 @@ sudo chmod +x REALTIMETEST.py
 Next, run the command: crontab -e
 it will pull up a text editor
 scroll down to the first line that is not preceded by the # symbol
-type in @reboot bash /home/pi/launcher.sh
+type in @reboot bash /home/pi/launcher.sh.txt
 press ctrl+x
 press y and then enter
 press enter
